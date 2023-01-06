@@ -123,6 +123,7 @@ color: #121212;
     margin-left: 10px;
     background: rgba(79, 157, 166, 0.1);
     justify-content: space-around;
+    align-items: center;
 }
 .food{
  margin-top: 20px;
@@ -175,4 +176,32 @@ margin-top: 20px;
     margin-top: 30px;
     margin-left: 30px;
     color: #FAFAFA;
+}
+.last-point{
+   
+    width: 50%;
+    margin-left: 900px;
+    margin-top: 50px;
+        
+}
+.last-point2
+{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.last-point1{
+font-size: 50px;
+
+}
+.last-point3{
+margin-top: 50px;
+margin-left: 30px;
+background-color: #FF5959;
+
+font-size: 50px;
+}
+.img4{
+    background-image: url('../donate-today/images/donation7.jpg');
+    background-repeat: no-repeat;
+    background-size: 800px;
 }
