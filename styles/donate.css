@@ -25,7 +25,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 28px;
-margin-top: 20px;
+margin-top: 50px;
 text-align: center;
 }
 
@@ -33,7 +33,6 @@ text-align: center;
     background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
     background-image: url(../donate-today/images/donation1.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
     background-size: cover;
 
 }
@@ -44,7 +43,7 @@ font-weight: 700;
 font-size: 65px;
 line-height: 79px;
 text-align: center;
-margin-top: 30px;
+margin-top: 50px;
 }
 .start-title{
     text-align: center;
@@ -88,7 +87,7 @@ color: #FF5959;
     margin-top: 80px;
 }
 .donnar{
-    margin-top: 30px;
+    margin-top: 50px;
     width: 160px;
     height: 56px;
     left: 640px;
@@ -96,4 +95,84 @@ color: #FF5959;
     margin-left: 850px;
     background: #FF5959;
     border-radius: 5px;
+}
+.donate-plan{
+    font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+text-align: center;
+margin-top: 50px;
+color: #121212;
+}
+.summary-2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 30px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    margin-top: 100px;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background: rgba(79, 157, 166, 0.1);
+    justify-content: space-around;
+}
+.food{
+ margin-top: 20px;
+}
+.description{
+margin-top: 20px;
+}
+.primary-title{
+    text-align: center;
+}.lives{
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 54px;
+    
+    color: #121212;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.descrption-2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #707070;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.descrption-3{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #707070;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.images-2{
+    background-image: url('../donate-today/images/donation6.jpg');
+    background-repeat: no-repeat;
+    background-color:#FFF8F3;
+    background-position: bottom right;
+    background-size: 900px;
+}
+.new-button{
+    background-color: #FF5959;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #FAFAFA;
 }
